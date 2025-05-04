@@ -1,0 +1,8 @@
+Last login: Sun May 4 12:17:59 en ttys@00 ( ra203856720C02HF67EQ6L5Nmkdir my-new-project 
+mkdir: my-new-project: File exists 
+ra203856720C02HF67EQ6L5N cd my-new-project 
+ra283856728C02HF67EQ6L5 my-new-project & git init 
+Initialized empty Git repository in /Users/ra20385672/my-new-project/.git/
+ra20385672@C02HF67EQ6L5 my-new-project & git add filel.txt 
+re203856729C02HF67EQ6L5 my-new-project & echo "This is my first file" >filel.txt 
+ra283856729C02HF67EQ6L5 my-new-project & git commit - "Initial commit: added filel.txt dquotes git log -oneline +
